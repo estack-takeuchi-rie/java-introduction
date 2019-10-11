@@ -1,0 +1,5 @@
+boolean shinngi = ture;
+char ku = "駆"；
+double = 3.14;
+long ennsyuuritu = 3141519265853879L;
+String a="ミナトの攻撃！　敵に15ポイントのダメージを与えた"；

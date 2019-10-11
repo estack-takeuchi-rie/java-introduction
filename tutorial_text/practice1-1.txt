@@ -1,0 +1,8 @@
+public class Main {
+	pablic static void main (String[] args){
+		int a=3;
+		int b=5;
+		int c=a*b;
+		System.out,print ln (”縦幅3　横幅５の長方形の面積は、”+c);
+	}
+}

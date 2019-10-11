@@ -1,0 +1,7 @@
+pubilic class Main{
+	public ststic void main(String[] args){
+		int x=5; int y=10; int Z=X+y;
+		String z="x+yは" + Z;
+		System.out.print(z);
+	}
+}
