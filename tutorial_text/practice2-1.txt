@@ -1,6 +1,13 @@
+// takeda Javaの拡張子は .java です。拡張子は .java にして作成しましょう。
 pubilic class Main{
+	// takeda ↓のststicはスペルミスです！ staticが正しいです。
 	public ststic void main(String[] args){
+		// takeda 変数宣言は宣言毎に改行を入れていきましょう
+		// takeda javaは英字の大文字と小文字は別の文字として認識します
+		// ですので、int Z = X + y は正しくは int z = x + y です。
 		int x=5; int y=10; int Z=X+y;
+
+		// takeda Stringの変数名は例題と同じように ans にしましょう
 		String z="x+yは" + Z;
 		System.out.print(z);
 	}
