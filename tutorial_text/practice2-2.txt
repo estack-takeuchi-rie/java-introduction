@@ -1,6 +1,9 @@
+// takeda Javaの拡張子は .java です。拡張子は .java にして作成しましょう。
 ①int x= 3+5.0;  	→　×
 ②double d=2.0F	→　〇
 ③int i="5";	→　×	
+
+// takeda 面積の演習で出力したように数字＋文字でも文字になりますので○です。
 ④String S=2+"人目";	→　×
 ⑤byte b=1;	→　〇
 ⑥double d=ture;	→　×

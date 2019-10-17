@@ -1,8 +1,17 @@
+// takeda Javaの拡張子は .java です。拡張子は .java にして作成しましょう。
+// takeda この演習は1-2ですよね！ファイル名違いますよ。
 public class Main {
 	pablic static void main (String[] args){
+		// takeda 変数はあとから見たときに何を表しているかがわかるような名前にしていきましょう
+		// 今回であれば
+		// a → height
+		// b → width
+		// c → area
+		// とするとあとで見たときに何の計算をしていたか一目瞭然ですよね！
 		int a=3;
 		int b=5;
 		int c=a*b;
+		// takeda ↓のままではコンパイルエラーとなってしまいますよ。 正しくは System.out.printlnです。
 		System.out,print ln (”縦幅3　横幅５の長方形の面積は、”+c);
 	}
 }
