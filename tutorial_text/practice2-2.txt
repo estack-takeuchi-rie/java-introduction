@@ -1,7 +1,0 @@
-①int x= 3+5.0;  	→　×
-②double d=2.0F	→　〇
-③int i="5";	→　×	
-④String S=2+"人目";	→　×
-⑤byte b=1;	→　〇
-⑥double d=ture;	→　×
-⑦short s=(byte)2;	→　〇
